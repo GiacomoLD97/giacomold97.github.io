@@ -1,6 +1,6 @@
 title: Giacomo Delgado
 description: My personal website
-theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
 header_pages:
   - index.md
   - about.md
