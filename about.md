@@ -1,1 +1,6 @@
-I am me.
+---
+layout: page
+title: About
+---
+
+Hi, I'm Giacomo
