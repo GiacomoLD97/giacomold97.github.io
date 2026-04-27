@@ -3,8 +3,15 @@ layout: home
 title: Home
 ---
 
-# Hello 👋
+# Hi, I'm Giacomo
 
-Welcome to my personal website.
+This is a personal website. 
 
-I'm building this with Jekyll and GitHub Pages.
+I don't want to make myself a brand.
+
+## Projects
+- Project 1
+- Project 2
+
+## Contact
+- Email: you@email.com
