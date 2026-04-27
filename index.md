@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-permalink: /blog/
+permalink: /
 ---
 
 # Hi, I'm Giacomo
